@@ -1,4 +1,5 @@
 //s23020
+//新しくcatというサブクラスを作って、新しくcatをインスタンス化して各メソッドを呼び出し出力するプログラミングです。  
 class Animal {
     public void makeSound() {
         System.out.println("動物の音");
